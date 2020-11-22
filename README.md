@@ -23,7 +23,7 @@ Use the Arduino's Library Manager to install these Adafruit libraries as necessa
 - Adafruit_NeoPixel
 - Adafruit_DotStar
 
-From Arduino's BoardmMnager, select `Adafruit ItsyBitsy M0` in the list of `Adafruit SAMD Boards`.
+From Arduino's BoardManager, select `Adafruit ItsyBitsy M0` in the list of `Adafruit SAMD Boards`.
 Select the appropriate programming port, and upload.
 
 #### Gotchyas

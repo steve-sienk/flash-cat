@@ -28,11 +28,6 @@ Select the appropriate programming port, and upload.
 
 #### Gotchyas
 See the code's comments if things don't seem to work.
-You may need to modify this line that configures the Adafruit_NeoPixels if the LEDS don't all match:
-```
-Adafruit_NeoPixel pixels(NEOPIXEL_NUMPIXELS, NEOPIXEL_PIN, NEO_RGB + NEO_KHZ800);
-```
-
 
 ### Hardware
 Pictures and more coming soon.

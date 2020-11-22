@@ -1,5 +1,5 @@
 # flash-cat
-A flashlight that can copycat a color.
+A flashlight that can copy a color. Like a copycat, but a flashlight -- a flash-cat.
 
 Programmed with an Arduino.
 
